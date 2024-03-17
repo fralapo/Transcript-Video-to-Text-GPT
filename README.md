@@ -40,11 +40,3 @@ The Transcript Video to Text GPT is a specialized model designed to transform vi
 ## Contributing
 
 We welcome contributions from the community to help improve the Transcript Video to Text GPT. If you have suggestions, improvements, or issues, please feel free to submit them on this GitHub repository.
-
-## License
-
-This project is licensed under [INSERT LICENSE HERE], allowing for wide use and contribution while respecting the original creators' rights.
-
-## Acknowledgements
-
-We thank all contributors and users of this GPT model for their support and feedback, which are invaluable to the continuous improvement of this project.
