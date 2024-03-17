@@ -1,4 +1,4 @@
-# Transcript Video to Text GPT
+# <img src="icon.webp" width="50" alt="Transcript Video to Text GPT Icon"> Transcript Video to Text GPT
 
 ## Introduction
 
